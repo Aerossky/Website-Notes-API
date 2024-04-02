@@ -19,7 +19,7 @@ Untuk memulai pengembangan, ikuti langkah-langkah berikut:
    
 2. **Jalankan Server Pengembangan**
 
-Untuk memulai server pengembangan, gunakan perintah:
+   Untuk memulai server pengembangan, gunakan perintah:
    ```
     npm run start
    ```
