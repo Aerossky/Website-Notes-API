@@ -33,5 +33,6 @@ Untuk membuat versi produksi dari proyek ini, gunakan perintah:
     npm run build
    ```
 
+Special Thanks [Dicoding](https://www.dicoding.com/)
 
    
